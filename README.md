@@ -1,1 +1,1 @@
-# rikadai-asamade-seikai
+# rikadai-asamade-tool
